@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking to help with frameworks as Serenity, Cypress and Selenium using design patterns as Page Object Models and Screenplay
 - 📫 How to reach me: Linkedin 
 
-?style=plastic&logo=appveyor
-
 -->
+
+?style=plastic&logo=appveyor
